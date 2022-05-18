@@ -2,7 +2,8 @@
 
 Overview and cheat sheet of git commands. Includes several categories of commands.
 
-LINE 5 added in main
+LINE 5 added in newBranch and changed in newBranch
+
 
 
 ## Basic Commands
