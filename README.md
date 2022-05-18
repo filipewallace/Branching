@@ -2,8 +2,7 @@
 
 Overview and cheat sheet of git commands. Includes several categories of commands.
 
-STUFF ADDED IN newBRANCH
-GOOD STUFF TOO
+LINE 5 added in newBranch
 
 ## Basic Commands
 
