@@ -11,7 +11,7 @@
 *  `git status` - show status of local working tree
 *  `git log ` - list commit history of current branch
 *  `git log --oneline` - compact listing of commit history
-
+*  `git config -l` - list local repo configuration
 
 ### Branching Commands
 * `git branch` - list local branches
