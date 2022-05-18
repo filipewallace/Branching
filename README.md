@@ -5,7 +5,6 @@ Overview and cheat sheet of git commands. Includes several categories of command
 LINE 5 added in newBranch and changed in newBranch
 
 
-
 ## Basic Commands
 
 *  `git init` - initialize a new local repo
