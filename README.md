@@ -5,10 +5,7 @@ Overview and cheat sheet of git commands. Includes several categories of command
 ## Basic Commands
 
 *  `git init` - initialize a new local repo
-<<<<<<< HEAD
 *  `git status` - show status of local working directory
-=======
->>>>>>> 47a73b2c1bb1a32a868dce46502426f3d056f620
 *  `git add .` - stage local changes for commit
 *  `git commit -m "some message" ` - commit staged changes with commit message
 
